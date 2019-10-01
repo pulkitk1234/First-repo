@@ -1,2 +1,2 @@
 # First-repo
-Practise
+Practise purpose repository
